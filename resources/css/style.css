@@ -1,0 +1,17 @@
+*{font-family: Verdana;
+background-color: Black;
+text-align:center;}
+grayrt{color: gray;
+text-align: right;
+font-size: 21px;}
+grayct{color: gray;
+font-size: 21px;
+text-align: center;}
+h2.fontwtsize{font-weight: 300;
+font-size: 42px;}
+p.aqua{color: Aquamarine;
+font-size: 16px;}
+h1.headfont{font-size: 50px;
+color: white;
+font-weight: normal;
+text-align: center;}
